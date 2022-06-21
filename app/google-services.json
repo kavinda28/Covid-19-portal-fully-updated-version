@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379030151160",
+    "firebase_url": "https://covid19apk-d282a-default-rtdb.firebaseio.com",
+    "project_id": "covid19apk-d282a",
+    "storage_bucket": "covid19apk-d282a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379030151160:android:612dda95172f0628f8800d",
+        "android_client_info": {
+          "package_name": "com.example.covid_19pop_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379030151160-dhsqgjlg53pamp28r5rd9hin0fdcc0tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyB6iNwbcuxTfifR25atiRsNT_MQxir7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379030151160-dhsqgjlg53pamp28r5rd9hin0fdcc0tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

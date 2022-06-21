@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COVID 19 Portal</string>
+    <string name="scanner_error">Scanner error: %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_text">The culture of Sri Lanka mixes modern elements with traditional aspects and is known for its regional diversity. Sri Lankan culture has long been influenced by the heritage of Theravada Buddhism passed on from India, and the religion\'s legacy is particularly strong in Sri Lanka\'s southern and central regions. South Indian cultural influences are especially pronounced in the northernmost reaches of the country. The history of colonial occupation has also left a mark on Sri Lanka\'s identity, with Portuguese, Dutch, and British elements having intermingled with various traditional facets of Sri Lankan culture. Additionally, Indonesian culture has also influenced certain aspects of Sri Lankan culture. Culturally, Sri Lanka possesses strong links to both India and Southeast Asia.[1] The country has a rich artistic tradition, with distinct creative forms that encompass music, dance, and the visual arts. Sri Lankan culture is internationally associated with cricket, a distinct cuisine, an indigenous holistic medicine practice, religious iconography such as the Buddhist flag, and exports such as tea, cinnamon, and gemstones, as well as a robust tourism industry. Sri Lanka has longstanding ties with the Indian subcontinent that can be traced back to prehistory. Sri Lanka\'s population is predominantly Sinhalese with sizable Sri Lankan Moor, Sri Lankan Tamil, Indian Tamil, Sri Lankan Malay and Burgher minorities.[2]</string>
+    <string name="maskinfo">Masks are a key measure to
+                            reduce transmission and
+                            save lives.</string>
+    <string name="trveling_text">Wherever you are, follow COVID-19 prevention measures, such as wearing a mask, washing hands frequently, maintaining physical distance of at least 1 metre</string>
+    <string name="glossary">Get definitions of unfamiliar words you may be hearing during the coronavirus pandemic.</string>
+</resources>
